@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <div className='text-center'>
       <h1 className='text-3xl'>Projects*</h1>
-      <div className='flex flex-col space-y-4 my-8'>
+      <div className='md:flex flex-col md:space-y-4 my-8'>
         
         <a className='text-red-500' href='https://github.com/swamynayini/YouTube'>
         project1
