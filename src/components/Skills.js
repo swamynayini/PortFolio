@@ -47,7 +47,7 @@ const Skills = () => {
                   </h6>
               </div>
               <div className="col-6 col-lg-4 py-3 px-3">
-              <img className='md:h-10 w-10 ml-[33.5rem] md:mb-[-2.5rem]' alt='logo' src={REACT_LOGO}/>
+              <img className='md:h-10 w-10 md:ml-[33.5rem] mb-[-2.5rem]' alt='logo' src={REACT_LOGO}/>
                 <h4>React js</h4>
                 <h6 className="text-white mt-3">
                   <span>★★★</span>★★
