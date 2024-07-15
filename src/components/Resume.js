@@ -17,13 +17,13 @@ const Resume = () => {
             I'm a Student. Insterested in Web Development and Freelancing
           </p>
           <div className='flex flex-col space-y-4 my-8'>
-            <div className='ml-[39.5rem] mb-[-2.5rem]'>
+            <div className='md:ml-[39.5rem] mb-[-2.5rem]'>
             <img className='h-8 w-8  ' alt='logo' src={LINKEDIN_LOGO}/>
             </div>
             <a href='https://www.linkedin.com/in/swamy-nayini-930536151/'>
             linkedin
             </a>
-            <div className='ml-[39.5rem] '>
+            <div className='md:ml-[39.5rem] '>
               <img className='h-8 w-8 bg-white mb-[-2.5rem]' alt='logo' src={GITHUB_LOGO}/>
             </div>
             <a href='https://github.com/swamynayini'>
