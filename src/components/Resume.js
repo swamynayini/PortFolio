@@ -3,7 +3,7 @@ import { GITHUB_LOGO, LINKEDIN_LOGO } from '../utils/constants'
 
 const Resume = () => {
   const clickBtn = ()=>{
-    window.location.href = "https://drive.google.com/file/d/1LxdaIn0v_PMVYAW5vVD-CS5fq1A9TaLV/view?usp=sharing" 
+    window.location.href = "https://drive.google.com/file/d/1TNBxBDujI0Kn41PoreKoKYyk2H_sTGpb/view?usp=sharing" 
   }
   return (
     <div className='text-center'>
